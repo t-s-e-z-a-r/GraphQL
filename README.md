@@ -1,1 +1,1 @@
-Basic GraphQL CRUD with using MongoDB with some data created for testing purposes
+Basic GraphQL CRUD with using MongoDB

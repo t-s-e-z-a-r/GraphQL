@@ -5,7 +5,6 @@ import pymongo
 from typing import List, Optional
 from bson import ObjectId
 
-# client = pymongo.MongoClient('localhost', 27017, username='base', password='example')
 client = pymongo.MongoClient('mongo', 27017, username='root', password='example')
 db = client.local
 users_collection = db.users
